@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=150&section=header&text=Muhammad%20Sufyan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h3 align="center">Computer Science Undergraduate | Frontend Developer | Shopify Developer</h3>
 
 <p align="center">
@@ -47,22 +50,54 @@
 
 ---
 
-### 💪 Skills Proficiency
+### 💪 Skills & Proficiency
 
-**Java**
-![](https://progress-bar.dev/75/?title=&color=ED8B00&width=400)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,shopify,git,vscode&theme=dark" />
+</p>
 
-**C++**
-![](https://progress-bar.dev/70/?title=&color=00599C&width=400)
+<table align="center">
+<tr>
+<td width="140"><b>☕ Java</b></td>
+<td>
 
-**HTML5**
-![](https://progress-bar.dev/90/?title=&color=E34F26&width=400)
+![](https://progress-bar.dev/75/?title=&color=ED8B00&width=350)
 
-**CSS3**
-![](https://progress-bar.dev/85/?title=&color=1572B6&width=400)
+</td>
+</tr>
+<tr>
+<td><b>⚙️ C++</b></td>
+<td>
 
-**Shopify Development**
-![](https://progress-bar.dev/80/?title=&color=7AB55C&width=400)
+![](https://progress-bar.dev/70/?title=&color=00599C&width=350)
+
+</td>
+</tr>
+<tr>
+<td><b>🌐 HTML5</b></td>
+<td>
+
+![](https://progress-bar.dev/90/?title=&color=E34F26&width=350)
+
+</td>
+</tr>
+<tr>
+<td><b>🎨 CSS3</b></td>
+<td>
+
+![](https://progress-bar.dev/85/?title=&color=1572B6&width=350)
+
+</td>
+</tr>
+<tr>
+<td><b>🛍️ Shopify</b></td>
+<td>
+
+![](https://progress-bar.dev/80/?title=&color=7AB55C&width=350)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,3 +116,5 @@
 </p>
 
 <p align="center"><i>📍 Karachi, Pakistan</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
