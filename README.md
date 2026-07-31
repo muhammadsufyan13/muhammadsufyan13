@@ -63,7 +63,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:muhammadsufyan86@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadsufyan86@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-sufyan-70a56237a/">
