@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Undergraduate | Frontend Developer | Shopify Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Shopify+Store+Builder;CS+Student+%40+UBIT+Karachi;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Shopify+Store+Builder+%F0%9F%9B%92%EF%B8%8F;CS+Student+%40+UBIT+Karachi+%F0%9F%8E%93;Building+Clean+%26+Responsive+Web+Pages+%F0%9F%92%BB;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
