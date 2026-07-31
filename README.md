@@ -47,16 +47,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💪 Skills Proficiency
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+**Java**
+![](https://progress-bar.dev/75/?title=&color=ED8B00&width=400)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+**C++**
+![](https://progress-bar.dev/70/?title=&color=00599C&width=400)
+
+**HTML5**
+![](https://progress-bar.dev/90/?title=&color=E34F26&width=400)
+
+**CSS3**
+![](https://progress-bar.dev/85/?title=&color=1572B6&width=400)
+
+**Shopify Development**
+![](https://progress-bar.dev/80/?title=&color=7AB55C&width=400)
 
 ---
 
