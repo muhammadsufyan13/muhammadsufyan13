@@ -5,7 +5,7 @@
 <h3 align="center">Computer Science Undergraduate | Frontend Developer | Shopify Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Shopify+Store+Builder;Java+%26+C%2B%2B+Programmer;BSc+Computer+Science+%40+UBIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+%26+C%2B%2B+Programmer;BSc+Computer+Science+%40+UBIT;Shopify+Store+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,7 +53,13 @@
 ### 💪 Skills & Proficiency
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,shopify,git,vscode&theme=dark" />
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS3" /></a>
+  <a href="https://www.shopify.com/partners" target="_blank"><img src="https://skillicons.dev/icons?i=shopify" title="Shopify" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /></a>
 </p>
 
 <table align="center">
