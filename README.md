@@ -57,9 +57,9 @@
   <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" title="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS3" /></a>
-  <a href="https://www.shopify.com/partners" target="_blank"><img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" title="Shopify" height="48" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /></a>
+  <a href="https://www.shopify.com/partners" target="_blank"><img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" title="Shopify" height="48" /></a>
 </p>
 
 <table align="center">
